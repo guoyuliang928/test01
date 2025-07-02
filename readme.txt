@@ -7,3 +7,4 @@ yeah
 Oh
 20250702
 dev do something
+Creating a new branch is quick & simple.
