@@ -1,0 +1,85 @@
+*   [33mcommit 9dcf3e29fc46eede606e66f6aeed531b8e0c5b93[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: a1533e1 398c75d
+[31m|[m [32m|[m Author: Your Name <email@example.com~>
+[31m|[m [32m|[m Date:   Wed Jul 2 21:27:21 2025 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     merge with no-ff
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 398c75d4e70360817422548b7845292f163a0882[m[33m ([m[1;32mdev4[m[33m)[m
+[31m|[m[31m/[m  Author: Your Name <email@example.com~>
+[31m|[m   Date:   Wed Jul 2 21:25:57 2025 +0800
+[31m|[m   
+[31m|[m       add merge
+[31m|[m   
+*   [33mcommit a1533e11e192deb3a9c0e19ee4b786b6feaef7f4[m
+[33m|[m[34m\[m  Merge: fbf2822 1fc245a
+[33m|[m [34m|[m Author: Your Name <email@example.com~>
+[33m|[m [34m|[m Date:   Wed Jul 2 21:12:32 2025 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     conflict fixed
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 1fc245a595e388af582cd97e3bbf01e8dc746918[m
+[33m|[m [34m|[m Author: Your Name <email@example.com~>
+[33m|[m [34m|[m Date:   Wed Jul 2 21:02:21 2025 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     AND simple
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit fbf28229dd81eacc116c7734b138eda70e6ac618[m
+[34m|[m[34m/[m  Author: Your Name <email@example.com~>
+[34m|[m   Date:   Wed Jul 2 21:03:44 2025 +0800
+[34m|[m   
+[34m|[m       & simple
+[34m|[m 
+* [33mcommit 48420e6452b6a42eb0d3377ca09cdd8aea58e5d9[m[33m ([m[1;32mdev[m[33m)[m
+[34m|[m Author: Your Name <email@example.com~>
+[34m|[m Date:   Wed Jul 2 20:34:30 2025 +0800
+[34m|[m 
+[34m|[m     dev do something
+[34m|[m 
+* [33mcommit d7417f4315c62b33767136c74fd8531a54d1c40c[m[33m ([m[1;31mtest01/master[m[33m)[m
+[34m|[m Author: Your Name <email@example.com~>
+[34m|[m Date:   Wed Jul 2 19:26:01 2025 +0800
+[34m|[m 
+[34m|[m     add time
+[34m|[m 
+* [33mcommit 8a5bc775ddf129d99003f0a72ad7136bf731ae50[m
+[34m|[m Author: Your Name <email@example.com~>
+[34m|[m Date:   Wed Jul 2 12:10:16 2025 +0800
+[34m|[m 
+[34m|[m     create 1.txt
+[34m|[m 
+* [33mcommit 476c90785ff5ced29cddb1f89835e2874331480e[m
+[34m|[m Author: Your Name <email@example.com~>
+[34m|[m Date:   Wed Jul 2 12:09:01 2025 +0800
+[34m|[m 
+[34m|[m     remove test.txt
+[34m|[m 
+* [33mcommit 578a810752ab75f7e0a285fd8c6ef1d31b62dd5f[m
+[34m|[m Author: Your Name <email@example.com~>
+[34m|[m Date:   Wed Jul 2 12:07:47 2025 +0800
+[34m|[m 
+[34m|[m     create test.txt
+[34m|[m 
+* [33mcommit a7cff6149ec0554d083fa4c182ed70ea4eb4ce9c[m
+[34m|[m Author: Your Name <email@example.com~>
+[34m|[m Date:   Wed Jul 2 11:04:23 2025 +0800
+[34m|[m 
+[34m|[m     create newbook.txt and nodified readme.txt
+[34m|[m 
+* [33mcommit 1d8a945c7d025894fffcd0f90a06dee6513c1d99[m
+[34m|[m Author: Your Name <email@example.com~>
+[34m|[m Date:   Wed Jul 2 10:35:31 2025 +0800
+[34m|[m 
+[34m|[m     add LGY
+[34m|[m 
+* [33mcommit 9fc8a22685de32b2b262dbc6c55624b60fe49739[m
+[34m|[m Author: Your Name <email@example.com~>
+[34m|[m Date:   Wed Jul 2 10:30:50 2025 +0800
+[34m|[m 
+[34m|[m     add some new lines
+[34m|[m 
+* [33mcommit 3c97690018eedd04d76877282a7602c4436031ad[m
+  Author: Your Name <email@example.com~>
+  Date:   Wed Jul 2 10:05:16 2025 +0800
+  
+      write the first readme
