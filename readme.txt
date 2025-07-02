@@ -9,7 +9,11 @@ Oh
 dev do something
 Creating a new branch is quick and simple.
 qweasdasdasdas大师大师大
+<<<<<<< HEAD
 
 阿达阿达是的
 solve the bug01
+=======
+>>>>>>> 96bb2ca (solve bug01)
 
+solve the bug01
